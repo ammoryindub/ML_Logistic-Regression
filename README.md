@@ -1,3 +1,3 @@
 # ML_Logistic-Regression
 
-### Machine Learning Linear Regression - Data Science, Data Analysis. 
+### Machine Learning Logistic Regression - Data Science, Data Analysis. 
