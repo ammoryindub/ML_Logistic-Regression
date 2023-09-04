@@ -10,3 +10,5 @@
 #### 01-Machine-Logistic-Regression
 - Importing libraries\data
 
+- Checking & Filtering data
+
