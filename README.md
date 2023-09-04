@@ -18,3 +18,5 @@
 
 - Building a Logistic Regression model
 
+- Evaluation 
+
