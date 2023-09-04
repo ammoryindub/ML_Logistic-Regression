@@ -16,3 +16,5 @@
 
 - Converting Categorical Features
 
+- Building a Logistic Regression model
+
