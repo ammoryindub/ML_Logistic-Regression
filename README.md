@@ -12,5 +12,7 @@
 
 - Data plotting
 
-- Data cleaning 
+- Data cleaning
+
+- Converting Categorical Features
 
