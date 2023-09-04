@@ -12,3 +12,5 @@
 
 - Data plotting
 
+- Data cleaning 
+
