@@ -4,7 +4,7 @@
 
 'titanic_test.csv', 'titanic_train.csv' files are associated with 01-Machine-Logistic-Regression
 
-'advertising.csv' file is associated with 02-ML-Linear-Regression.
+'advertising.csv' file is associated with 02-Machine-Logistic-Regression
 
 
 
