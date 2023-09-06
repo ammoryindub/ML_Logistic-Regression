@@ -27,3 +27,5 @@
 - EDA
 
 - Logistic Regression
+
+- Predictions and Evaluations
