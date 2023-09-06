@@ -23,3 +23,5 @@
 
 #### 02-Machine-Logistic-Regression
 - Importing libraries\data
+
+- EDA
