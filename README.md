@@ -20,3 +20,5 @@
 
 - Evaluation 
 
+
+#### 02-Machine-Logistic-Regression
