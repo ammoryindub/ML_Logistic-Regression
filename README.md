@@ -25,3 +25,5 @@
 - Importing libraries\data
 
 - EDA
+
+- Logistic Regression
